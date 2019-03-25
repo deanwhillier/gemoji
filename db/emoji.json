@@ -3785,6 +3785,28 @@
   , "ios_version": "9.1"
   }
 , {
+    "emoji": "🤟"
+  , "description": "love-you gesture"
+  , "category": "People"
+  , "aliases": [
+      "love_you_gesture"
+    ]
+  , "tags": []
+  , "unicode_version": "10.0"
+  , "ios_version": "11.1"
+  }
+, {
+    "emoji": "🥺"
+  , "description": "pleading face"
+  , "category": "People"
+  , "aliases": [
+      "pleading_face"
+    ]
+  , "tags": []
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
+  }
+, {
     "emoji": "🐶"
   , "description": "dog face"
   , "category": "Nature"
@@ -7843,6 +7865,28 @@
   , "ios_version": "6.0"
   }
 , {
+    "emoji": "🥌"
+  , "description": "curling stone"
+  , "category": "Activity"
+  , "aliases": [
+      "curling_stone"
+    ]
+  , "tags": []
+  , "unicode_version": "10.0"
+  , "ios_version": "11.1"
+  }
+, {
+    "emoji": "♟"
+  , "description": "chess pawn"
+  , "category": "Activity"
+  , "aliases": [
+      "chess_pawn"
+    ]
+  , "tags": []
+  , "unicode_version": "1.1"
+  , "ios_version": "12.1"
+  }
+, {
     "emoji": "🚗"
   , "description": "automobile"
   , "category": "Places"
@@ -9297,6 +9341,17 @@
     ]
   , "unicode_version": "6.0"
   , "ios_version": "6.0"
+  }
+, {
+    "emoji": "🛹"
+  , "description": "skateboard"
+  , "category": "Places"
+  , "aliases": [
+      "skateboard"
+    ]
+  , "tags": []
+  , "unicode_version": "11.0"
+  , "ios_version": "12.1"
   }
 , {
     "emoji": "⌚️"
@@ -14778,6 +14833,28 @@
     ]
   , "unicode_version": "6.0"
   , "ios_version": "6.0"
+  }
+, {
+    "emoji": "⏏️"
+  , "description": "eject button"
+  , "category": "Symbols"
+  , "aliases": [
+      "eject"
+    ]
+  , "tags": []
+  , "unicode_version": "4.0"
+  , "ios_version": "11.1"
+  }
+, {
+    "emoji": "♾"
+  , "description": "infinity"
+  , "category": "Symbols"
+  , "aliases": [
+      "infinity"
+    ]
+  , "tags": []
+  , "unicode_version": "4.1"
+  , "ios_version": "12.1"
   }
 , {
     "emoji": "🏳️"
